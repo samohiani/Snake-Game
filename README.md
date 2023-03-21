@@ -17,3 +17,19 @@ The OG snake game, where you eat fruit and the game expands
 <img width="1398" alt="Screenshot 2023-03-21 at 08 43 32" src="https://user-images.githubusercontent.com/103277834/226545443-44cc7a8a-c952-4f90-9e86-cb024be67e17.png">
 <img width="1395" alt="Screenshot 2023-03-21 at 08 44 05" src="https://user-images.githubusercontent.com/103277834/226545449-197c76eb-de9d-4948-9751-858e9a853290.png">
 <img width="1397" alt="Screenshot 2023-03-21 at 08 44 12" src="https://user-images.githubusercontent.com/103277834/226545450-0586005e-f24c-4723-88c6-75ffe6749386.png">
+
+### Links
+
+- See what the calculator looks like and use it [here](https://onanuviie.github.io/Js-calculator-with-color-theme/)
+
+
+## My process
+
+### Built with
+
+- turtle graphics
+- Screen Method
+
+### What I learned
+
+This was my first time using OOP for such a complex task and it went well, i learnt how to easily implement OOP's to help your stucture of the code and to detect errors easily
